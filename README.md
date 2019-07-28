@@ -1,2 +1,2 @@
 # myAss
-Source code for my Assistant Chatbot
+Source code for My Assistant Chatbot
