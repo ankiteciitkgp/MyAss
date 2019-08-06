@@ -1,0 +1,50 @@
+{"resume":  {
+  "info": {
+    "first_name": "Ankit",  
+    "last_name": "Bansal", 
+    "dob": "17-12-1994",
+    "phone": "+91-8389934342, 9001099088",
+    "email": ["ankiteciitkgp@gmail.com", "abc@abc.com"],
+    "website": "https://ankiteciitkgp.github.io",
+    "linkedIn": "",
+    "education": {  
+      "menuitem": [  
+        {"value": "New", "onclick": "CreateDoc()"},
+        {"value": "Open", "onclick": "OpenDoc()"},
+        {"value": "Save", "onclick": "SaveDoc()"}
+      ]
+    }
+  },
+  "experience"  : [
+  	{
+  		"type": "WORK EXPERIENCE",
+  		"name": "ORACLE INDIA PVT. LTD.",
+  		"company": "ORACLE INDIA PVT. LTD.",
+  		"role": "Application Engineer",
+  		"duration": {
+  			"start": "07-2017",
+  			"end": ""
+  		},
+  		"description": [
+        "Enhanced RESTful API’s using Spring Framework for CxAudience, a marketing data curation Web Application",
+  			"Application Owner of Connect Maven Project, which allows transfer of ~10 Million entries of data for CxAudience",
+        "Developed complex UI functionalities using ExtJS framework and MVVM Architecture",
+        "Designed and Implemented Waterfall feature to enhance audience creation",
+        "Devised an algorithm based on unsupervised clustering to recommend segments for complex customer DBs",
+        "Proposed Instagram Influencers, as a marketing channel, implementation includes Text Analysis, Data Extraction, Graphs"
+  		]
+  	}, {
+      "type": "PROJECTS",
+  		"name": "SMART NETWORK INTRUSION DETECTOR (IDS)",
+  		"duration": {
+  			"start": "07-2016",
+  			"end": "04-2017"
+  		},
+  		"description": [
+  			"Developed a smart network IDS for real time packet analysis of network traffic using Deep Learning (TensorFlow)",
+			  "Developed 3 Botnet Detection methods, applying Clustering, Neural Networks and Recurrent Neural Networks",
+			  "Publication: “A comparative analysis of machine learning techniques for botnet detection”, SIN’17 Pages 91-98"
+  		]
+  	}
+  ]
+}} 

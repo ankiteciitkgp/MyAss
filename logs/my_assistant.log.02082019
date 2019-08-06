@@ -1,0 +1,105 @@
+2019-08-02 15:04:56,384 - root - INFO - Input: hellow
+2019-08-02 15:04:56,659 - root - INFO - Found noun: hellow
+2019-08-02 15:04:56,660 - root - DEBUG - Pronoun=None, noun=hellow, adjective=None, verb=(None, None)
+2019-08-02 15:04:56,661 - root - INFO - Response 'Have you closed your seed round, dog?'
+2019-08-02 15:05:00,304 - root - INFO - Input: helloo
+2019-08-02 15:05:00,314 - root - INFO - Found noun: helloo
+2019-08-02 15:05:00,315 - root - DEBUG - Pronoun=None, noun=helloo, adjective=None, verb=(None, None)
+2019-08-02 15:05:00,316 - root - INFO - Response 'uh whatever'
+2019-08-02 15:13:12,259 - root - INFO - Input: helo
+2019-08-02 15:13:12,261 - root - INFO - Found noun: helo
+2019-08-02 15:13:12,261 - root - DEBUG - Pronoun=None, noun=helo, adjective=None, verb=(None, None)
+2019-08-02 15:13:12,262 - root - INFO - Response 'code hard bro'
+2019-08-02 15:13:15,936 - root - INFO - Input: helloo
+2019-08-02 15:13:15,938 - root - INFO - Found noun: helloo
+2019-08-02 15:13:15,939 - root - DEBUG - Pronoun=None, noun=helloo, adjective=None, verb=(None, None)
+2019-08-02 15:13:15,939 - root - INFO - Response 'Have you closed your seed round, dog?'
+2019-08-02 15:13:20,241 - root - INFO - Input: hi
+2019-08-02 15:13:20,243 - root - INFO - Found noun: hi
+2019-08-02 15:13:20,243 - root - DEBUG - Pronoun=None, noun=hi, adjective=None, verb=(None, None)
+2019-08-02 15:13:20,243 - root - INFO - Response 'hey'
+2019-08-02 15:13:22,337 - root - INFO - Input: hi
+2019-08-02 15:13:22,339 - root - INFO - Found noun: hi
+2019-08-02 15:13:22,339 - root - DEBUG - Pronoun=None, noun=hi, adjective=None, verb=(None, None)
+2019-08-02 15:13:22,339 - root - INFO - Response 'hey you get my snap?'
+2019-08-02 15:13:24,848 - root - INFO - Input: hello
+2019-08-02 15:13:24,850 - root - INFO - Found noun: hello
+2019-08-02 15:13:24,850 - root - DEBUG - Pronoun=None, noun=hello, adjective=None, verb=(None, None)
+2019-08-02 15:13:24,851 - root - INFO - Response ''sup bro'
+2019-08-02 15:13:30,563 - root - INFO - Input: what's up
+2019-08-02 15:13:30,566 - root - DEBUG - Pronoun=None, noun=None, adjective=None, verb=("'s", 'VBZ')
+2019-08-02 15:13:30,567 - root - INFO - Response 'want to bro down and crush code?'
+2019-08-02 15:31:41,236 - root - INFO - Input: quit
+2019-08-02 15:31:41,245 - root - INFO - Found noun: quit
+2019-08-02 15:31:41,246 - root - DEBUG - Pronoun=None, noun=quit, adjective=None, verb=(None, None)
+2019-08-02 15:31:41,247 - root - INFO - Response 'I'd like to add you to my professional network on LinkedIn'
+2019-08-02 15:31:59,011 - root - INFO - Input: heylo
+2019-08-02 15:33:28,147 - root - INFO - Input: heylo
+2019-08-02 15:33:46,819 - root - INFO - Input: heylo
+2019-08-02 15:40:23,076 - root - INFO - Input: asd
+2019-08-02 15:40:23,169 - root - DEBUG - Corrected Sentence: and
+2019-08-02 15:40:23,334 - root - DEBUG - Pronoun=None, noun=None, adjective=None, verb=(None, None)
+2019-08-02 15:40:23,334 - root - INFO - Response 'uh whatever'
+2019-08-02 15:40:52,900 - root - INFO - Input: I awanna dance with ew. i wanna sing with you
+2019-08-02 15:40:53,125 - root - DEBUG - Corrected Sentence: I anna dance with we. i anna sing with you
+2019-08-02 15:40:53,128 - root - INFO - Found noun: dance
+2019-08-02 15:40:53,129 - root - INFO - Found noun: i
+2019-08-02 15:40:53,129 - root - DEBUG - Pronoun=I, noun=i, adjective=None, verb=('anna', 'VBP')
+2019-08-02 15:40:53,129 - root - INFO - Response 'I really consider myself an expert on Is'
+2019-08-02 15:47:09,364 - root - INFO - Input: quit
+2019-08-02 15:47:09,366 - root - DEBUG - Corrected Sentence: quit
+2019-08-02 15:47:09,371 - root - INFO - Found noun: quit
+2019-08-02 15:47:09,372 - root - DEBUG - Pronoun=None, noun=quit, adjective=None, verb=(None, None)
+2019-08-02 15:47:09,373 - root - INFO - Response 'uh whatever'
+2019-08-02 15:49:48,244 - root - INFO - Input: hellow
+2019-08-02 15:51:43,429 - root - INFO - Input: base
+2019-08-02 15:51:43,688 - root - INFO - Found noun: base
+2019-08-02 15:51:43,688 - root - DEBUG - Pronoun=None, noun=base, adjective=None, verb=(None, None)
+2019-08-02 15:51:43,689 - root - INFO - Response 'uh whatever'
+2019-08-02 15:51:47,304 - root - INFO - Input: hello
+2019-08-02 15:51:47,313 - root - INFO - Found noun: hello
+2019-08-02 15:51:47,313 - root - DEBUG - Pronoun=None, noun=hello, adjective=None, verb=(None, None)
+2019-08-02 15:51:47,314 - root - INFO - Response 'Howdy!'
+2019-08-02 15:52:34,135 - root - INFO - Input: hello
+2019-08-02 15:52:34,466 - root - INFO - Found noun: hello
+2019-08-02 15:52:34,466 - root - DEBUG - Pronoun=None, noun=hello, adjective=None, verb=(None, None)
+2019-08-02 15:52:34,467 - root - INFO - Response 'Hello!'
+2019-08-02 15:53:24,069 - root - INFO - Input: heylo
+2019-08-02 15:53:24,325 - root - INFO - Found noun: hello
+2019-08-02 15:53:24,325 - root - DEBUG - Pronoun=None, noun=hello, adjective=None, verb=(None, None)
+2019-08-02 15:53:24,325 - root - INFO - Response 'Hey'
+2019-08-02 15:53:27,108 - root - INFO - Input: bubyee
+2019-08-02 15:53:27,302 - root - INFO - Found noun: buyer
+2019-08-02 15:53:27,302 - root - DEBUG - Pronoun=None, noun=buyer, adjective=None, verb=(None, None)
+2019-08-02 15:53:27,302 - root - INFO - Response 'I'd like to add you to my professional network on LinkedIn'
+2019-08-02 15:53:33,093 - root - INFO - Input: byee
+2019-08-02 15:53:33,101 - root - INFO - Found noun: bee
+2019-08-02 15:53:33,101 - root - DEBUG - Pronoun=None, noun=bee, adjective=None, verb=(None, None)
+2019-08-02 15:53:33,102 - root - INFO - Response 'I'd like to add you to my professional network on LinkedIn'
+2019-08-02 15:53:38,261 - root - INFO - Input: baileys
+2019-08-02 15:53:38,264 - root - INFO - Found noun: bailey
+2019-08-02 15:53:38,264 - root - DEBUG - Pronoun=None, noun=bailey, adjective=None, verb=(None, None)
+2019-08-02 15:53:38,264 - root - INFO - Response 'I'd like to add you to my professional network on LinkedIn'
+2019-08-02 15:53:41,380 - root - INFO - Input: balle
+2019-08-02 15:53:41,387 - root - INFO - Found noun: ball
+2019-08-02 15:53:41,387 - root - DEBUG - Pronoun=None, noun=ball, adjective=None, verb=(None, None)
+2019-08-02 15:53:41,388 - root - INFO - Response 'meet me at the foosball table, bro?'
+2019-08-02 15:55:05,828 - root - INFO - Input: he hoo
+2019-08-02 15:55:05,833 - root - DEBUG - Pronoun=None, noun=None, adjective=None, verb=(None, None)
+2019-08-02 15:55:05,833 - root - INFO - Response 'code hard bro'
+2019-08-02 15:55:16,837 - root - INFO - Input: I am i a
+2019-08-02 15:55:16,844 - root - DEBUG - Pronoun=You, noun=None, adjective=None, verb=('am', 'VBP')
+2019-08-02 15:55:16,844 - root - INFO - Response 'You aren't really '
+2019-08-02 15:55:26,533 - root - INFO - Input: I am i a
+2019-08-02 15:55:26,541 - root - DEBUG - Pronoun=You, noun=None, adjective=None, verb=('am', 'VBP')
+2019-08-02 15:55:26,541 - root - INFO - Response 'You aren't really lol'
+2019-08-02 15:55:27,925 - root - INFO - Input: I am i a
+2019-08-02 15:55:27,934 - root - DEBUG - Pronoun=You, noun=None, adjective=None, verb=('am', 'VBP')
+2019-08-02 15:55:27,934 - root - INFO - Response 'You aren't really lol'
+2019-08-02 15:55:28,900 - root - INFO - Input: I am i a
+2019-08-02 15:55:28,911 - root - DEBUG - Pronoun=You, noun=None, adjective=None, verb=('am', 'VBP')
+2019-08-02 15:55:28,912 - root - INFO - Response 'You aren't really '
+2019-08-02 17:34:19,933 - root - INFO - Input: quit
+2019-08-02 17:34:19,970 - root - INFO - Found noun: quit
+2019-08-02 17:34:19,970 - root - DEBUG - Pronoun=None, noun=quit, adjective=None, verb=(None, None)
+2019-08-02 17:34:19,971 - root - INFO - Response 'uh whatever'
